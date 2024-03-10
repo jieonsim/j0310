@@ -1,7 +1,7 @@
 package exam;
 
 public abstract class Bonsa {
-	public abstract String kimchiStew();
+	public abstract  String kimchiStew();
 	public abstract String budaejjigae();
 	public abstract String bibimbap();
 	public abstract String sundaeSoup();
