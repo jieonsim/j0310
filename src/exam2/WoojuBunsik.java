@@ -8,7 +8,7 @@ public class WoojuBunsik extends Bonsa{
 		System.out.println("김치찌개 : 6,000원");
 		System.out.println("부대찌개 : 7,000원");
 		System.out.println("비빔밥 : 7,000원");
-		System.out.println("순대국 : 6,000");
+		System.out.println("순대국 : 6,000원");
 		System.out.println("공기밥 : 1,000원");
 	}
 }
